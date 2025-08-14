@@ -1,0 +1,23 @@
+node_modules
+dist
+logs
+
+
+'ve created a detailed high-level design document for your scalable, resilient data pipeline system at 
+scalable-data-pipeline-hld.md
+.
+
+The document covers:
+
+Complete system architecture with all required components
+Multi-tenancy isolation strategies
+Dual processing paths for real-time and batch workloads
+Resource allocation and fairness mechanisms
+Failure recovery and resilience patterns
+Technology recommendations for implementation
+Scaling considerations to handle varying client loads
+Security and compliance measures
+Monitoring and metrics to ensure system health
+The design specifically addresses your requirements for handling both high-volume and low-volume clients fairly, ensuring LLM processing bottlenecks don't impact the entire system, and maintaining data integrity throughout the pipeline.
+
+Is there any particular aspect of the design you'd like me to elaborate on further?
