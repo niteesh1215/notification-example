@@ -8,7 +8,6 @@ bash
 # Install dependencies
 npm install
 
-
 ## Running the Project
 
 bash
