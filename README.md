@@ -48,5 +48,5 @@ Replace `{id}` with the actual notification ID.
 ```bash
 curl -X POST http://localhost:3000/api/v1/notifications/{id}/send \
   -H "Content-Type: application/json" \
-  -d '{"to": "example@email.com"}'
+  -d '{"to": ["example@email.com"]}'
 ```
