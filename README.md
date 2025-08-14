@@ -15,8 +15,6 @@ bash
 # Development mode with hot reload
 npm run dev
 
-
-
 ## API Documentation
 
 ### Notification Endpoints
